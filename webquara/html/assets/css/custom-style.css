@@ -1,0 +1,73 @@
+
+.form-style > b > label, .form-style > input{
+	margin-top: 25px;
+	margin-bottom: 7px;
+}
+#col-right > .timkiem {
+	float: right;
+	margin: 5px;
+}
+#btn-xoaloaisanpham {
+	margin: 5px;
+
+}
+.form-style > input{
+	margin-top: 5px;
+	margin-bottom: 7px;
+}
+
+.themsanpham table {
+	width: 100%;
+	border-collapse: separate;
+	border-spacing: 15px 15px;
+
+}
+.themsanpham table tr td{
+	width: 50%;	
+}
+
+.themsanpham table tr label{
+	margin-bottom: 5px;
+}
+
+select.form-control {
+	width: fit-content;
+}
+label {		
+	margin-bottom: 0px;
+}
+
+#khungchitietsanpham .anbutton {
+	display: none;
+}
+
+.anbutton {
+	display: none;
+}
+.anchitietsanpham {
+	display: none;
+}
+
+.zoom {	 	
+	zoom: 0.8;
+	
+}
+
+.xacnhan {
+	padding:5px;
+	margin-bottom:100px;
+}
+
+.themhoadon table {
+	width: 100%;
+	border-collapse: separate;
+	border-spacing: 15px 15px;
+
+}
+.themhoadon table tr td{
+	width: 50%;	
+}
+
+.themhoadon table tr label{
+	margin-bottom: 5px;
+}
